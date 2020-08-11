@@ -22,7 +22,7 @@ class Test{
 
     /*魔術索引*/
     public static int findMagicIndex(int[] nums) {
-        int val = -1;
+        // int val = -1;
         for(int i=0;i<nums.length;i++){
             if(i==nums[i]){
                 return i;
