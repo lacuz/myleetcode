@@ -1,0 +1,30 @@
+{
+    "code":"0",
+    "msg":"成功",
+    "result":{
+        "hasPwd":false,
+        "isRegister":false,
+        "phoneNum":"17051123672",
+        "riskLevel":"",
+        "token":"0f4f526aa37f440c0cbad60a18db430c57ecdac90b05c49bf7f909c8834b0dcf",
+        "userInfo":{
+            "birthDay":"",
+            "cityId":"",
+            "cityName":"",
+            "imgPath":"",
+            "phoneNum":"17051123672",
+            "sexId":"",
+            "sexName":"",
+            "uname":"用户4419",
+            "uuid":"1597030909365346354"
+        },
+        "uuid":"1597030909365346354"
+    }
+}
+
+
+
+请求头：{"namesAndValues":["sign","ccd36c5523ad8de15ea5b5eafeb6c760","appcode","venucia","appversion","1.0.0","api","ly.oneapp.official.special.list","lang","cn","uuid","1597030909365346354","noncestr","93aaf0882db540978ff34359dac11212","timestamp","1597304118689"]}
+    请求体：{"appversion":"1.0.0"}
+
+    1597030909365346354ly.oneapp.official.special.list93aaf0882db540978ff34359dac1121215973041186890f4f526aa37f440c0cbad60a18db430c57ecdac90b05c49bf7f909c8834b0dcf
