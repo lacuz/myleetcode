@@ -1,4 +1,4 @@
-class Solution{
+class Solution416{
 
 //给定两个字符串形式的非负整数 num1 和num2 ，计算它们的和。
 // 注意：
@@ -33,7 +33,7 @@ class Solution{
         return result;
     }
     public static void main(String[] args){
-        Solution s = new Solution();
+        Solution416 s = new Solution416();
         System.out.println(s.addStrings("123", "456"));
         System.out.println(s.addStrings("0", "0"));
     }
